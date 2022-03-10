@@ -1,4 +1,4 @@
-# Django_react_intergration
+# Django_React_Intergration
 A web application with React(frontend) and Django(backend)
 
 
@@ -11,3 +11,16 @@ Refer to the file below on the step by step guide on how to create a similar pro
 ## Running the project 
 You need a working python environment
 
+Clone project from github
+
+https://github.com/Onroe/django_react_intergration.git
+
+cd to directory, install django dependencies and run django api
+
+pip install django djangorestframework django-cors-headers
+python manage.py runserver
+
+cd to django_react_intergration/members_frontend and run frontend
+
+npm install
+npm start
