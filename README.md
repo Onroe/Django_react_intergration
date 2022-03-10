@@ -26,5 +26,10 @@ python manage.py runserver
 ```
 cd to django_react_intergration/members_frontend and run frontend
 
+```python
 npm install
+```
+
+```python
 npm start
+```
