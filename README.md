@@ -17,9 +17,13 @@ https://github.com/Onroe/django_react_intergration.git
 
 cd to directory, install django dependencies and run django api
 
+```python
 pip install django djangorestframework django-cors-headers
-python manage.py runserver
+```
 
+```python
+python manage.py runserver
+```
 cd to django_react_intergration/members_frontend and run frontend
 
 npm install
